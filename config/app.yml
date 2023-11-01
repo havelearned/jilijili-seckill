@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+gin:
+  application-name: _11160_jilijili_seckill
+  datasource:
+    url: "root:123456.ljj@tcp(127.0.0.1:13306)/jilijili_system?charset=utf8mb4&parseTime=True&loc=Local"
